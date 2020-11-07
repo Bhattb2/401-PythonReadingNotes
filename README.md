@@ -3,11 +3,4 @@
 ### DIRECTORY
 [Topics](./readings/TOPICS.md)
 
-[Topics](./readings/TOPICS.md)
-
-[Topics](./readings/TOPICS.md)
-
-[Topics](./readings/TOPICS.md)
-
-[Topics](./readings/TOPICS.md)
 
