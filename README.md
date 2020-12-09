@@ -1,7 +1,7 @@
 # Reading Notes
 ## 401 Advance Software Development - Python
 ### DIRECTORY
-[Topics](./class-readings)
+[Topics](./Class-Readings)
 
 
-[clas01](class-readings/class01.md)
+[clas01](Class-Readings/class01.md)
