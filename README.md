@@ -4,4 +4,5 @@
 [Topics](./Class-Readings)
 
 
-[clas01](Class-Readings/class01.md)
+[class01](Class-Readings/class01.md)
+[class02](Class-Readings/class02.md)
