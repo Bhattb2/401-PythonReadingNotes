@@ -1,5 +1,9 @@
 # Python environment
-Home
+HomePython modules and Python packages are two mechanisms that facilitate modular programming.
+
+Modular programming is the process of breaking a large programming task into separate, smaller, more manageable subtasks or modules. Individual modules can then be cobbled together like building blocks to create a larger application.
+
+
 
 ## Benefits of MODULES
 - Simplicity: A module typically focuses on one relatively small portion of the problem.
@@ -9,6 +13,25 @@ Home
 - Reusability: This eliminates the need to duplicate code.
 
 - Scoping: Modules typically define a separate namespace, which helps avoid collisions between identifiers in different areas of a program.
+
+## PyTest Tutorial
+
+### What is PyTest?
+
+Pytest is a testing framework which allows us to write test codes using python. You can write code to test anything like database, API, even UI if you want. But pytest is mainly being used in industry to write tests for APIs.
+
+### Why use PyTest?
+
+Some of the advantages of pytest are:
+
+- Very easy to start with because of its simple and easy syntax.
+- Can run tests in parallel.
+- Can run a specific test or a subset of tests
+- Automatically detect tests
+- Skip tests
+- Open source
+
+Up to section Running tests in parallel
 
 ## Recursion
 ### Definitions
