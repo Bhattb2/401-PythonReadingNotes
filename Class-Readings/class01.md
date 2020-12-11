@@ -6,7 +6,7 @@ Pain is the price you pay when pursuing something you want. Suffering is pain wi
 
 
 # Big O Notation
-Home
+(Home)[./home.md]
 
 link
 
