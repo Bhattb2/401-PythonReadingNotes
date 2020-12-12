@@ -8,6 +8,6 @@
 
 [class02](Class-Readings/class02.md)
 
-[class02](Class-Readings/class03.md)
+[class03](Class-Readings/class03.md)
 
 
