@@ -14,4 +14,8 @@
 
 [class05](Class-Readings/class05.md)
 
+[class06](Class-Readings/class06.md)
+
+[class07](Class-Readings/class07.md)
+
 
