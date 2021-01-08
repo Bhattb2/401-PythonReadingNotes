@@ -18,4 +18,8 @@
 
 [class07](Class-Readings/class07.md)
 
+[class08](Class-Readings/class08.md)
+
+[class09](Class-Readings/class09.md)
+
 
