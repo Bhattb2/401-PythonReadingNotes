@@ -22,4 +22,6 @@
 
 [class09](Class-Readings/class09.md)
 
+[class10](Class-Readings/class10.md)
+
 
