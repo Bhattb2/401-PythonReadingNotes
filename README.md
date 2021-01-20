@@ -26,4 +26,6 @@
 
 [class11](Class-Readings/class11.md)
 
+[class12](Class-Readings/class12.md)
+
 
