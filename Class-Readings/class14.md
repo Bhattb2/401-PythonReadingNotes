@@ -32,26 +32,8 @@ To run the example, you can download each of the examples and run it using:
 
     $ python exercice_1.py
 
-## Bookmark/Skim
-[Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
-
-[Bokeh Tutorial](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
-
-## Additional Resources
-
-[Seaborn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
-
-
-[Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial)
-
-[Customizing Matplotlib](https://matplotlib.org/tutorials/introductory/customizing.html)
-
-[Animation](https://matplotlib.org/api/animation_api.html)
-
-[Seaborn tutorial](https://github.com/rougier/matplotlib-tutorial)
 
 ## What is Bokeh?
-
 ### BOKEH
 Bokeh is an interactive visualization library that targets modern web browsers for presentation. It is good for:
 
@@ -101,3 +83,22 @@ Bokeh is an interactive visualization library for modern web browsers. It provid
     p.add_tools(HoverTool(tooltips=[("MPG", "@mpg_mean"), ("Cyl, Mfr", "@cyl_mfr")]))
 
     show(p)
+
+
+## Bookmark/Skim
+[Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
+
+[Bokeh Tutorial](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
+
+## Additional Resources
+
+[Seaborn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
+
+
+[Matplotlib Tutorial](https://github.com/rougier/matplotlib-tutorial)
+
+[Customizing Matplotlib](https://matplotlib.org/tutorials/introductory/customizing.html)
+
+[Animation](https://matplotlib.org/api/animation_api.html)
+
+[Seaborn tutorial](https://github.com/rougier/matplotlib-tutorial)
