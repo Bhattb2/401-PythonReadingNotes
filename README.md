@@ -30,5 +30,8 @@
 
 [class13](Class-Readings/class13.md)
 
-[class14](Class-Readings/class1.md)
+[class14](Class-Readings/class14.md)
+
+[class15](Class-Readings/class15.md)
+
 
