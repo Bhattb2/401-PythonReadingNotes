@@ -1,4 +1,4 @@
-# Trees
+<!-- # Trees
 [Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
 
 ## Common Terminology
@@ -76,4 +76,4 @@ ALGORITHM postOrder(root) // INPUT <-- root node // OUTPUT <-- post-order output
         breadth.enqueue(front.left)
 
         if front.right is not NULL
-        breadth.enqueue(front.right)```
+        breadth.enqueue(front.right)``` -->
