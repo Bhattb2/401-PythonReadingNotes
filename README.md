@@ -38,4 +38,8 @@
 
 [class18](Class-Readings/class18.md)
 
+[class19](Class-Readings/class19.md)
+
+
+
 
