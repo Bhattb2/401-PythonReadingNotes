@@ -40,6 +40,6 @@
 
 [class19](Class-Readings/class19.md)
 
-
+[class26](Class-Readings/class26.md)
 
 
