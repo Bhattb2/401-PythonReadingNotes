@@ -43,3 +43,7 @@
 [class26](Class-Readings/class26.md)
 
 [class27](Class-Readings/class27.md)
+
+[class28](Class-Readings/class28.md)
+
+[class29](Class-Readings/class29.md)
