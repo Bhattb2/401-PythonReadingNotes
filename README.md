@@ -49,3 +49,5 @@
 [class29](Class-Readings/class29.md)
 
 [class30](Class-Readings/class30.md)
+
+[class31](Class-Readings/class31.md)
