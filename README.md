@@ -51,3 +51,5 @@
 [class30](Class-Readings/class30.md)
 
 [class31](Class-Readings/class31.md)
+
+[class32](Class-Readings/class32.md)
