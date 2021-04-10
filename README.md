@@ -62,4 +62,6 @@
 
 [class36](Class-Readings/class36.md)
 
-[class37](Class-Readings/class3.md)
+[class37](Class-Readings/class37.md)
+
+[class38](Class-Readings/class38.md)
