@@ -65,3 +65,5 @@
 [class37](Class-Readings/class37.md)
 
 [class38](Class-Readings/class38.md)
+
+[class38](Class-Readings/class38.md)
