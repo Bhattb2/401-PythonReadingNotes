@@ -72,3 +72,7 @@
 
 [class42](Class-Readings/class42.md)
 
+[class43](Class-Readings/class43.md)
+
+[class44](Class-Readings/class44.md)
+
